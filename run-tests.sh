@@ -1,0 +1,3 @@
+set -ex
+
+rake test
